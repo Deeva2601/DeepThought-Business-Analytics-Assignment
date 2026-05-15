@@ -10,6 +10,8 @@ This repository contains the completed recruitment assignment for the Business A
 - **[Part_B/](https://github.com/Deeva2601/DeepThought-Business-Analytics-Assignment/tree/main/Part_B)**
     - `scale_up_proposal.md`: A scalable, automated proposal to identify and profile 1000 "Federer" companies across India using AI and human-in-the-loop verification.
 - **`sourcing_funnel_sketch.jpg`**: A hand-drawn diagram illustrating the sourcing funnel, AI integration, and hallucination control logic.
+- **`mindmap.png`**: A hand-drawn mindmap of the Scientific Execution / PDGMS vision.
+- **`thought_process.png`**: A hand-drawn flowchart illustrating the logical thought process for discovering Federer companies.
 
 ## 🎯 The "Federer" Profile Logic
 The research focuses on the **Federer** (Ideal Customer Profile) companies, defined by:
