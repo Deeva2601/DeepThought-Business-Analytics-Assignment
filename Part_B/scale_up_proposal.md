@@ -57,5 +57,8 @@ To maintain 95%+ accuracy, we will implement:
 
 ---
 
-### **Note for Recruiter:**
-A **hand-drawn diagram** illustrating this sourcing funnel, the integration of AI tools, and the quality control checkpoints is provided as a separate image submission per the assignment guidelines.
+## 7. Strategic Expression: The "Institution Builder" Approach
+Scaling from 25 to 1000 is not just a robotic mapping exercise; it requires an **Institution Builder Mindset**. If we just throw AI at the problem, we get hallucinations and "Chatur-level" copy-paste results. The key to this scale-up is **Context-Aware Execution**. The Human-in-the-Loop (HITL) isn't there just to check boxes; the BA is there to apply the *Scientific Loop* (Observation → Hypothesis → Experiment) to the data. This proposal ensures that as we scale, we don't lose the critical thinking required to actually understand what makes a company a true "Federer".
+
+### **Note for Evaluator:**
+A **hand-drawn diagram** detailing the *Thought Process* behind this sourcing strategy—illustrating the balance between AI speed and human critical thinking—is provided as a separate image submission per the assignment guidelines.
